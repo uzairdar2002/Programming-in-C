@@ -23,8 +23,8 @@ void main() {
     int a, b, add;
     printf("Enter Ist number: \n");
     printf("Enter Second number: \n");
-
     scanf("%d\n%d", &a, &b);
+
     add = a + b;
     printf("The sum is: %d\n", add);
 
